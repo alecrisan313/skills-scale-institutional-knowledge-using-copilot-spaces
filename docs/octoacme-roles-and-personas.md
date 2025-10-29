@@ -75,7 +75,51 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Expanded Personas & Roles
+
+The following additional personas are increasingly vital for cross-functional project management and clarity. Their integration helps address gaps in ownership, accountability, and collaboration.
+
+| Persona/Role            | Responsibilities                                                                              | Key Interactions                                         |
+|-------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| **UX Designer**         | Design user flows, wireframes, prototypes; advocate UX best practices; usability testing     | Product Manager, Developers                              |
+| **Data Analyst**        | Define/monitor success metrics; analyze and report data; create dashboards                   | PM, PdM, Developers                                      |
+| **DevOps Engineer**     | Maintain CI/CD pipelines; automate deployments; monitor infrastructure                       | Developers, QA                                           |
+| **Security Lead**       | Oversee security reviews; ensure compliance; manage incident response                        | All roles during planning/execution/release              |
+| **Customer Success Mgr**| Gather user feedback; relay customer issues; support onboarding and training                 | Product, PM, post-launch comms                           |
+
+### Persona Details
+
+#### UX Designer
+- **Responsibilities:** Design user flows, wireframes, and prototypes. Advocate for user experience best practices. Collaborate on usability testing.
+- **Interactions:** Works closely with Product Manager and Developers during planning and reviews.
+
+#### Data Analyst
+- **Responsibilities:** Define and monitor project success metrics. Analyze data for decision making. Produce dashboards for stakeholders.
+- **Interactions:** Collaborates with PM, PdM, and Developers to set up tracking and interpret results.
+
+#### DevOps Engineer
+- **Responsibilities:** Maintain CI/CD pipelines, automate deployments, monitor infrastructure health, ensure reliability.
+- **Interactions:** Partners with Developers for release readiness and QA for test automation.
+
+#### Security Lead
+- **Responsibilities:** Oversee security reviews, ensure compliance with standards, manage incident response and remediation.
+- **Interactions:** Engages with all roles during planning, execution, and release.
+
+#### Customer Success Manager
+- **Responsibilities:** Gather user feedback, relay customer issues, support post-release onboarding and training.
+- **Interactions:** Coordinates with Product and PM for post-launch communications and continuous improvement.
+
+---
+
+## Example Collaboration Scenarios
+
+- **UX Designer** & **Product Manager**: Co-design feature flows and validate usability before development.
+- **DevOps Engineer** & **QA**: Automate test pipelines and ensure stable release processes.
+- **Data Analyst** & **PM**: Monitor project metrics, provide actionable insights, and support data-driven decisions.
+- **Security Lead** & **All Roles**: Conduct threat modeling during planning, verify controls in execution, and lead incident response if needed.
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
