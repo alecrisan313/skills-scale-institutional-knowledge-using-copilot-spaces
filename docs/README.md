@@ -22,7 +22,3 @@ Continuous improvement is a core principle, with retrospectives capturing learni
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
-
----
-
-For questions or suggestions, please use our [process doc update issue template](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml).
